@@ -1,0 +1,15 @@
+C:\Users\Jean Cruz\source\repos\Condicional\SegundoProblema\bin\Debug\net6.0\SegundoProblema.exe
+C:\Users\Jean Cruz\source\repos\Condicional\SegundoProblema\bin\Debug\net6.0\SegundoProblema.deps.json
+C:\Users\Jean Cruz\source\repos\Condicional\SegundoProblema\bin\Debug\net6.0\SegundoProblema.runtimeconfig.json
+C:\Users\Jean Cruz\source\repos\Condicional\SegundoProblema\bin\Debug\net6.0\SegundoProblema.dll
+C:\Users\Jean Cruz\source\repos\Condicional\SegundoProblema\bin\Debug\net6.0\ref\SegundoProblema.dll
+C:\Users\Jean Cruz\source\repos\Condicional\SegundoProblema\bin\Debug\net6.0\SegundoProblema.pdb
+C:\Users\Jean Cruz\source\repos\Condicional\SegundoProblema\obj\Debug\net6.0\SegundoProblema.csproj.AssemblyReference.cache
+C:\Users\Jean Cruz\source\repos\Condicional\SegundoProblema\obj\Debug\net6.0\SegundoProblema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean Cruz\source\repos\Condicional\SegundoProblema\obj\Debug\net6.0\SegundoProblema.AssemblyInfoInputs.cache
+C:\Users\Jean Cruz\source\repos\Condicional\SegundoProblema\obj\Debug\net6.0\SegundoProblema.AssemblyInfo.cs
+C:\Users\Jean Cruz\source\repos\Condicional\SegundoProblema\obj\Debug\net6.0\SegundoProblema.csproj.CoreCompileInputs.cache
+C:\Users\Jean Cruz\source\repos\Condicional\SegundoProblema\obj\Debug\net6.0\SegundoProblema.dll
+C:\Users\Jean Cruz\source\repos\Condicional\SegundoProblema\obj\Debug\net6.0\ref\SegundoProblema.dll
+C:\Users\Jean Cruz\source\repos\Condicional\SegundoProblema\obj\Debug\net6.0\SegundoProblema.pdb
+C:\Users\Jean Cruz\source\repos\Condicional\SegundoProblema\obj\Debug\net6.0\SegundoProblema.genruntimeconfig.cache

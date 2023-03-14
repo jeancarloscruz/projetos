@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e4c3573-18ba-4c1a-981b-706ff84a77da": {
+      "ProjectGuid": "8e4c3573-18ba-4c1a-981b-706ff84a77da",
+      "DisplayName": "Condicional",
+      "ColorIndex": 0
+    },
+    "1a96693a-c8ba-48fc-b4eb-ab0c3cb6479b": {
+      "ProjectGuid": "1a96693a-c8ba-48fc-b4eb-ab0c3cb6479b",
+      "DisplayName": "Funcao",
+      "ColorIndex": 1
+    },
+    "85dcfa3a-fc57-467b-bcb4-5f9333695d1c": {
+      "ProjectGuid": "85dcfa3a-fc57-467b-bcb4-5f9333695d1c",
+      "DisplayName": "For",
+      "ColorIndex": 2
+    },
+    "a213fa7e-b7ee-4f9a-92ac-a4e39276cbd3": {
+      "ProjectGuid": "a213fa7e-b7ee-4f9a-92ac-a4e39276cbd3",
+      "DisplayName": "Exercecio",
+      "ColorIndex": 3
+    },
+    "67b3b0b1-516d-4ebd-ac41-117dfb9950de": {
+      "ProjectGuid": "67b3b0b1-516d-4ebd-ac41-117dfb9950de",
+      "DisplayName": "While",
+      "ColorIndex": 4
+    },
+    "aa62fab4-69fa-4c0c-ac89-8d29d799bd54": {
+      "ProjectGuid": "aa62fab4-69fa-4c0c-ac89-8d29d799bd54",
+      "DisplayName": "SemOrientadaAobjetos",
+      "ColorIndex": 5
+    },
+    "221981ee-d361-4a37-83bc-0936ab98cc0e": {
+      "ProjectGuid": "221981ee-d361-4a37-83bc-0936ab98cc0e",
+      "DisplayName": "ExercicioClasse",
+      "ColorIndex": 6
+    },
+    "f3f8a689-099b-410a-a53b-bb24423702fe": {
+      "ProjectGuid": "f3f8a689-099b-410a-a53b-bb24423702fe",
+      "DisplayName": "ExercicioClasse2",
+      "ColorIndex": 7
+    },
+    "8527117f-8b98-4d06-8e57-d12b4d653d6c": {
+      "ProjectGuid": "8527117f-8b98-4d06-8e57-d12b4d653d6c",
+      "DisplayName": "SegundoProblema",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

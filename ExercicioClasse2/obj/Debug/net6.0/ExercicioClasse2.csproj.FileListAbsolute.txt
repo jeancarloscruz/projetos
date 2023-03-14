@@ -1,0 +1,14 @@
+C:\Users\Jean Cruz\source\repos\Condicional\ExercicioClasse2\bin\Debug\net6.0\ExercicioClasse2.exe
+C:\Users\Jean Cruz\source\repos\Condicional\ExercicioClasse2\bin\Debug\net6.0\ExercicioClasse2.deps.json
+C:\Users\Jean Cruz\source\repos\Condicional\ExercicioClasse2\bin\Debug\net6.0\ExercicioClasse2.runtimeconfig.json
+C:\Users\Jean Cruz\source\repos\Condicional\ExercicioClasse2\bin\Debug\net6.0\ExercicioClasse2.dll
+C:\Users\Jean Cruz\source\repos\Condicional\ExercicioClasse2\bin\Debug\net6.0\ref\ExercicioClasse2.dll
+C:\Users\Jean Cruz\source\repos\Condicional\ExercicioClasse2\bin\Debug\net6.0\ExercicioClasse2.pdb
+C:\Users\Jean Cruz\source\repos\Condicional\ExercicioClasse2\obj\Debug\net6.0\ExercicioClasse2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean Cruz\source\repos\Condicional\ExercicioClasse2\obj\Debug\net6.0\ExercicioClasse2.AssemblyInfoInputs.cache
+C:\Users\Jean Cruz\source\repos\Condicional\ExercicioClasse2\obj\Debug\net6.0\ExercicioClasse2.AssemblyInfo.cs
+C:\Users\Jean Cruz\source\repos\Condicional\ExercicioClasse2\obj\Debug\net6.0\ExercicioClasse2.csproj.CoreCompileInputs.cache
+C:\Users\Jean Cruz\source\repos\Condicional\ExercicioClasse2\obj\Debug\net6.0\ExercicioClasse2.dll
+C:\Users\Jean Cruz\source\repos\Condicional\ExercicioClasse2\obj\Debug\net6.0\ref\ExercicioClasse2.dll
+C:\Users\Jean Cruz\source\repos\Condicional\ExercicioClasse2\obj\Debug\net6.0\ExercicioClasse2.pdb
+C:\Users\Jean Cruz\source\repos\Condicional\ExercicioClasse2\obj\Debug\net6.0\ExercicioClasse2.genruntimeconfig.cache

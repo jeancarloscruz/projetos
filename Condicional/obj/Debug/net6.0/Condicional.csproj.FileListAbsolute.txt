@@ -1,0 +1,15 @@
+C:\Users\Jean Cruz\source\repos\Condicional\Condicional\bin\Debug\net6.0\Condicional.exe
+C:\Users\Jean Cruz\source\repos\Condicional\Condicional\bin\Debug\net6.0\Condicional.deps.json
+C:\Users\Jean Cruz\source\repos\Condicional\Condicional\bin\Debug\net6.0\Condicional.runtimeconfig.json
+C:\Users\Jean Cruz\source\repos\Condicional\Condicional\bin\Debug\net6.0\Condicional.dll
+C:\Users\Jean Cruz\source\repos\Condicional\Condicional\bin\Debug\net6.0\ref\Condicional.dll
+C:\Users\Jean Cruz\source\repos\Condicional\Condicional\bin\Debug\net6.0\Condicional.pdb
+C:\Users\Jean Cruz\source\repos\Condicional\Condicional\obj\Debug\net6.0\Condicional.csproj.AssemblyReference.cache
+C:\Users\Jean Cruz\source\repos\Condicional\Condicional\obj\Debug\net6.0\Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean Cruz\source\repos\Condicional\Condicional\obj\Debug\net6.0\Condicional.AssemblyInfoInputs.cache
+C:\Users\Jean Cruz\source\repos\Condicional\Condicional\obj\Debug\net6.0\Condicional.AssemblyInfo.cs
+C:\Users\Jean Cruz\source\repos\Condicional\Condicional\obj\Debug\net6.0\Condicional.csproj.CoreCompileInputs.cache
+C:\Users\Jean Cruz\source\repos\Condicional\Condicional\obj\Debug\net6.0\Condicional.dll
+C:\Users\Jean Cruz\source\repos\Condicional\Condicional\obj\Debug\net6.0\ref\Condicional.dll
+C:\Users\Jean Cruz\source\repos\Condicional\Condicional\obj\Debug\net6.0\Condicional.pdb
+C:\Users\Jean Cruz\source\repos\Condicional\Condicional\obj\Debug\net6.0\Condicional.genruntimeconfig.cache

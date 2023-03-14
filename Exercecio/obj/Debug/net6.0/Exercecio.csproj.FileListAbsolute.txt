@@ -1,0 +1,14 @@
+C:\Users\Jean Cruz\source\repos\Condicional\Exercecio\bin\Debug\net6.0\Exercecio.exe
+C:\Users\Jean Cruz\source\repos\Condicional\Exercecio\bin\Debug\net6.0\Exercecio.deps.json
+C:\Users\Jean Cruz\source\repos\Condicional\Exercecio\bin\Debug\net6.0\Exercecio.runtimeconfig.json
+C:\Users\Jean Cruz\source\repos\Condicional\Exercecio\bin\Debug\net6.0\Exercecio.dll
+C:\Users\Jean Cruz\source\repos\Condicional\Exercecio\bin\Debug\net6.0\ref\Exercecio.dll
+C:\Users\Jean Cruz\source\repos\Condicional\Exercecio\bin\Debug\net6.0\Exercecio.pdb
+C:\Users\Jean Cruz\source\repos\Condicional\Exercecio\obj\Debug\net6.0\Exercecio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean Cruz\source\repos\Condicional\Exercecio\obj\Debug\net6.0\Exercecio.AssemblyInfoInputs.cache
+C:\Users\Jean Cruz\source\repos\Condicional\Exercecio\obj\Debug\net6.0\Exercecio.AssemblyInfo.cs
+C:\Users\Jean Cruz\source\repos\Condicional\Exercecio\obj\Debug\net6.0\Exercecio.csproj.CoreCompileInputs.cache
+C:\Users\Jean Cruz\source\repos\Condicional\Exercecio\obj\Debug\net6.0\Exercecio.dll
+C:\Users\Jean Cruz\source\repos\Condicional\Exercecio\obj\Debug\net6.0\ref\Exercecio.dll
+C:\Users\Jean Cruz\source\repos\Condicional\Exercecio\obj\Debug\net6.0\Exercecio.pdb
+C:\Users\Jean Cruz\source\repos\Condicional\Exercecio\obj\Debug\net6.0\Exercecio.genruntimeconfig.cache

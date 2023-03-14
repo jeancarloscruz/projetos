@@ -1,0 +1,15 @@
+C:\Users\Jean Cruz\source\repos\Condicional\SemOrientadaAobjetos\bin\Debug\net6.0\SemOrientadaAobjetos.exe
+C:\Users\Jean Cruz\source\repos\Condicional\SemOrientadaAobjetos\bin\Debug\net6.0\SemOrientadaAobjetos.deps.json
+C:\Users\Jean Cruz\source\repos\Condicional\SemOrientadaAobjetos\bin\Debug\net6.0\SemOrientadaAobjetos.runtimeconfig.json
+C:\Users\Jean Cruz\source\repos\Condicional\SemOrientadaAobjetos\bin\Debug\net6.0\SemOrientadaAobjetos.dll
+C:\Users\Jean Cruz\source\repos\Condicional\SemOrientadaAobjetos\bin\Debug\net6.0\ref\SemOrientadaAobjetos.dll
+C:\Users\Jean Cruz\source\repos\Condicional\SemOrientadaAobjetos\bin\Debug\net6.0\SemOrientadaAobjetos.pdb
+C:\Users\Jean Cruz\source\repos\Condicional\SemOrientadaAobjetos\obj\Debug\net6.0\SemOrientadaAobjetos.csproj.AssemblyReference.cache
+C:\Users\Jean Cruz\source\repos\Condicional\SemOrientadaAobjetos\obj\Debug\net6.0\SemOrientadaAobjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean Cruz\source\repos\Condicional\SemOrientadaAobjetos\obj\Debug\net6.0\SemOrientadaAobjetos.AssemblyInfoInputs.cache
+C:\Users\Jean Cruz\source\repos\Condicional\SemOrientadaAobjetos\obj\Debug\net6.0\SemOrientadaAobjetos.AssemblyInfo.cs
+C:\Users\Jean Cruz\source\repos\Condicional\SemOrientadaAobjetos\obj\Debug\net6.0\SemOrientadaAobjetos.csproj.CoreCompileInputs.cache
+C:\Users\Jean Cruz\source\repos\Condicional\SemOrientadaAobjetos\obj\Debug\net6.0\SemOrientadaAobjetos.dll
+C:\Users\Jean Cruz\source\repos\Condicional\SemOrientadaAobjetos\obj\Debug\net6.0\ref\SemOrientadaAobjetos.dll
+C:\Users\Jean Cruz\source\repos\Condicional\SemOrientadaAobjetos\obj\Debug\net6.0\SemOrientadaAobjetos.pdb
+C:\Users\Jean Cruz\source\repos\Condicional\SemOrientadaAobjetos\obj\Debug\net6.0\SemOrientadaAobjetos.genruntimeconfig.cache
